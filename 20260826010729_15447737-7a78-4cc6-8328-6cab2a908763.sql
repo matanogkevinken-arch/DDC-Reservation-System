@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.notify_reservation_status() FROM PUBLIC, anon, authenticated;
